@@ -2,7 +2,7 @@
 
 A simple and interactive **Typing Speed Test** built using **HTML, CSS, and JavaScript**.  
 This project measures typing speed (WPM), accuracy, CPM, and errors in real time.  
-It is part of the **20 Days 20 Projects Challenge – Day #10**.
+It is part of the **20 Days 20 Projects Challenge – 
 
 ---
 
